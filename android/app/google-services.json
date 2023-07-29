@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716226720902",
+    "project_id": "pench-app",
+    "storage_bucket": "pench-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716226720902:android:94710978d6024539ab0d07",
+        "android_client_info": {
+          "package_name": "com.example.forestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716226720902-l2rg2remla97qtstc40op82ulic9a7lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmAcGCWIfT0j1NCCgjeD6yt-mwbthB1KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716226720902-l2rg2remla97qtstc40op82ulic9a7lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
