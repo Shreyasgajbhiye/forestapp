@@ -406,6 +406,7 @@ class _AddForestDataState extends State<AddForestData> {
                 },
                 child: Text(_image == null ? 'Add Photo' : 'Change Photo'),
               ),
+
               TextFormField(
                 controller: _titleController,
                 decoration: const InputDecoration(
